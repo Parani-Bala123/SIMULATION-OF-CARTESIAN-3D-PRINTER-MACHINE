@@ -1,6 +1,6 @@
 # Ex. No. 5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 
-## DATE:
+## DATE: 05-05-2025
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
 
